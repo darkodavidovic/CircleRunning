@@ -474,9 +474,9 @@ https:// facebook.com/darko.fb
         animation: rotacijaOmota 5s linear infinite;
 
     }
-@keyframes rotacijaOmota{
-    100% {transform: rotate(1turn)};
-}
+	@keyframes rotacijaOmota{
+		100% {transform: rotate(1turn)};
+	}
 
     .spirala {
         position: absolute;
@@ -1154,7 +1154,7 @@ https:// facebook.com/darko.fb
     }
 
 
-    .plaviK     ug1 {
+    .plaviKrug1 {
         position: absolute;
         width: 17px;
         height: 17px;
@@ -2176,7 +2176,7 @@ https:// facebook.com/darko.fb
         96.68% {  transform: translate(209.0px, 104.6px) ; }
         98.25% {  transform: translate(202.0px, 61.8px) ; }
         100.0% {  transform: translate(194.0px, -10.0px) ; }
-}
+	}
     @keyframes animate2 {
         0.00% {  transform: translate(1241.0px, -22.0px) ; }
         3.03% {  transform: translate(1200.0px, -8.0px) ; }
@@ -2260,4 +2260,4 @@ https:// facebook.com/darko.fb
 
         98.48% {  transform: translate(1165.0px, 790.0px) ; }
         100.0% {  transform: translate(1167.0px, 820.0px) ; }
-}
+	}
