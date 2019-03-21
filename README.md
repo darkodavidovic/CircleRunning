@@ -2,7 +2,7 @@
 
     English description:
     -This animation is a CSS replica inspired by sponsored facebook ad of company Circle Ci.
-    -Inspired by this video:: https://www.facebook.com/watch/?v=10156047204304232
+    -Inspired by this video: https://www.facebook.com/watch/?v=10156047204304232
     -Tools used are only VS Code with Live Server addon.
     -The poent of building this animation is proof of concept with no framework used.
     -Contact the author: https://facebook.com/darko.fb
