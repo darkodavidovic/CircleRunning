@@ -480,7 +480,7 @@ https:// facebook.com/darko.fb
         transform: scale(0.23) rotate(-16deg);
     }
 
-    .jedan {
+    .jedand {
         position: absolute;
         width: 32px;
         height: 17px;
@@ -492,7 +492,7 @@ https:// facebook.com/darko.fb
         box-shadow: 0 0 10px 1px rgb(49, 245, 49);
     }
 
-    .dva {
+    .dvaa {
         position: absolute;
         color: white;
         font-size: 17px;
@@ -503,7 +503,7 @@ https:// facebook.com/darko.fb
         transform: rotate(20deg);
     }
 
-    .tri {
+    .trir {
         position: absolute;
         width: 45px;
         height: 17px;
@@ -515,7 +515,7 @@ https:// facebook.com/darko.fb
         box-shadow: 0 0 10px 1px rgb(97, 183, 253);
     }
 
-    .cetiri {
+    .cetirik {
         position: absolute;
         width: 12px;
         height: 12px;
@@ -526,7 +526,7 @@ https:// facebook.com/darko.fb
         transform: rotate(55deg) scale(0.6);
     }
 
-    .pet {
+    .peto {
         position: absolute;
         width: 17px;
         height: 17px;
@@ -537,21 +537,21 @@ https:// facebook.com/darko.fb
         box-shadow: 0 0 10px 1px rgb(49, 245, 49);
     }
 
-    .sest {
+    .sestd {
         position: absolute;
         top: 107px;
         left: 302px;
         transform: scale(0.23) rotate(77deg);
     }
 
-    .sedam {
+    .sedama {
         position: absolute;
         top: 150px;
         left: 311px;
         transform: scale(0.23) rotate(91deg);
     }
 
-    .osam {
+    .osamv {
         position: absolute;
         width: 45px;
         height: 17px;
@@ -563,7 +563,7 @@ https:// facebook.com/darko.fb
         box-shadow: 0 0 10px 1px rgb(97, 183, 253);
     }
 
-    .devet {
+    .deveti {
         position: absolute;
         color: white;
         font-size: 17px;
@@ -573,7 +573,7 @@ https:// facebook.com/darko.fb
         transform: rotate(130deg);
     }
 
-    .deset {
+    .desetd {
         position: absolute;
         width: 32px;
         height: 17px;
@@ -585,7 +585,7 @@ https:// facebook.com/darko.fb
         box-shadow: 0 0 10px 1px rgb(49, 245, 49);
     }
 
-    .jedanaest {
+    .jedanaesto {
         position: absolute;
         width: 0px;
         height: 0px;
@@ -597,7 +597,7 @@ https:// facebook.com/darko.fb
         transform: rotate(-22deg) scale(0.4);
     }
 
-    .jedanaest:after {
+    .jedanaesto:after {
         position: absolute;
         content: '';
         width: 0px;
@@ -609,7 +609,7 @@ https:// facebook.com/darko.fb
         border-bottom: 25px solid var(--senkaSina);
     }
 
-    .dvanaest {
+    .dvanaestv {
         position: absolute;
         width: 45px;
         height: 17px;
@@ -621,7 +621,7 @@ https:// facebook.com/darko.fb
         box-shadow: 0 0 10px 1px rgb(49, 245, 49);
     }
 
-    .trinaest {
+    .trinaesti {
         position: absolute;
         width: 17px;
         height: 17px;
@@ -633,7 +633,7 @@ https:// facebook.com/darko.fb
         box-shadow: 0 0 10px 1px rgb(97, 183, 253);
     }
 
-    .trinaest:after {
+    .trinaesti:after {
         position: absolute;
         font-family: Arial, Helvetica, sans-serif;
         color: white;
@@ -642,7 +642,7 @@ https:// facebook.com/darko.fb
         left: -10px;
     }
 
-    .cetrnaest {
+    .cetrnaestc {
         position: absolute;
         width: 52px;
         height: 15px;
@@ -654,7 +654,7 @@ https:// facebook.com/darko.fb
         box-shadow: 0 0 10px 1px white;
     }
 
-    .cetrnaest:after {
+    .cetrnaestc:after {
         position: absolute;
         font-family: Arial, Helvetica, sans-serif;
         color: white;
@@ -1842,7 +1842,7 @@ https:// facebook.com/darko.fb
         box-shadow: 0px 0px 15px rgb(49, 245, 49);
         animation: animate2 var(--timeKugla5) 1.12s linear infinite;
     }
-    .fly2{
+    .flyc2{
         width: 20px;
         height: 20px;
         position: absolute;
@@ -1855,7 +1855,7 @@ https:// facebook.com/darko.fb
         animation: animate2 var(--timeKugla5) 1.14s linear infinite;
         
     }
-    .fly3{
+    .flyi3{
         width: 19px;
         height: 19px;
         position: absolute;
@@ -1867,7 +1867,7 @@ https:// facebook.com/darko.fb
         opacity: 0.70;
         animation: animate2 var(--timeKugla5) 1.16s linear infinite;
     }
-    .fly4{
+    .flyv4{
         width: 18px;
         height: 18px;
         position: absolute;
@@ -1879,7 +1879,7 @@ https:// facebook.com/darko.fb
         opacity: 0.65;
         animation: animate2 var(--timeKugla5) 1.18s linear infinite;
     }
-    .fly5{
+    .flyo5{
         width: 17px;
         height: 17px;
         position: absolute;
@@ -1891,7 +1891,7 @@ https:// facebook.com/darko.fb
         opacity: 0.60;
         animation: animate2 var(--timeKugla5) 1.20s linear infinite;
     }
-    .fly6{
+    .flyd6{
         width: 16px;
         height: 16px;
         position: absolute;
@@ -1903,7 +1903,7 @@ https:// facebook.com/darko.fb
         opacity: 0.55;
         animation: animate2 var(--timeKugla5) 1.22s linear infinite;
     }
-    .fly7{
+    .flyi7{
         width: 15px;
         height: 15px;
         position: absolute;
@@ -1915,7 +1915,7 @@ https:// facebook.com/darko.fb
         opacity: 0.50;
         animation: animate2 var(--timeKugla5) 1.24s linear infinite;
     }
-    .fly8{
+    .flyv8{
         width: 14px;
         height: 14px;
         position: absolute;
@@ -1927,7 +1927,7 @@ https:// facebook.com/darko.fb
         opacity: 0.45;
         animation: animate2 var(--timeKugla5) 1.26s linear infinite;
     }
-    .fly9{
+    .flya9{
         width: 13px;
         height: 13px;
         position: absolute;
@@ -1939,7 +1939,7 @@ https:// facebook.com/darko.fb
         opacity: 0.30;
         animation: animate2 var(--timeKugla5) 1.28s linear infinite;
     }
-    .fly10{
+    .flyd10{
         width: 12px;
         height: 12px;
         position: absolute;
@@ -2021,7 +2021,7 @@ https:// facebook.com/darko.fb
         opacity: 0.60;
         animation: animate2 var(--timeKugla6) 1.74s linear infinite;
     }
-    .bee6{
+    .beeo6{
         width: 16px;
         height: 16px;
         position: absolute;
@@ -2033,7 +2033,7 @@ https:// facebook.com/darko.fb
         opacity: 0.55;
         animation: animate2 var(--timeKugla6) 1.76s linear infinite;
     }
-    .bee7{
+    .beek7{
         width: 15px;
         height: 15px;
         position: absolute;
@@ -2045,7 +2045,7 @@ https:// facebook.com/darko.fb
         opacity: 0.50;
         animation: animate2 var(--timeKugla6) 1.78s linear infinite;
     }
-    .bee8{
+    .beer8{
         width: 14px;
         height: 14px;
         position: absolute;
@@ -2057,7 +2057,7 @@ https:// facebook.com/darko.fb
         opacity: 0.45;
         animation: animate2 var(--timeKugla6) 1.80s linear infinite;
     }
-    .bee9{
+    .beea9{
         width: 13px;
         height: 13px;
         position: absolute;
@@ -2069,7 +2069,7 @@ https:// facebook.com/darko.fb
         opacity: 0.30;
         animation: animate2 var(--timeKugla6) 1.82s linear infinite;
     }
-    .bee10{
+    .beed10{
         width: 12px;
         height: 12px;
         position: absolute;
